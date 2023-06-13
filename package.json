@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "type": "module",
   "author": "ByFish",
-  "repository": "https://github.com/ByFishh/zk-flow",
-  "homepage": "https://byfishh.github.io/zk-flow/",
+  "repository": "https://github.com/knwins/zk-flow",
+  "homepage": "https://zk-flow.vercel.app/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
